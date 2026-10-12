@@ -2,3 +2,6 @@
 
 ## Favorite food
 padgapow
+
+## Favorite Activity
+Play games
