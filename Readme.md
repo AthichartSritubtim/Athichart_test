@@ -1,7 +1,7 @@
 # Our Favorite Things
 
 ## Favorite food
-padgapow
+padgapow gay
 
 ## Favorite Activity
 Play games
